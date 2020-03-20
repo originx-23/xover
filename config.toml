@@ -1,0 +1,20 @@
+baseURL = "https://originx-23.github.io"
+languageCode = "zh-ch"
+title = "Xover"
+googleAnalytics = "UA-123-456-789"
+theme = "github-style"
+copyright = "© 2020. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+  author = "xover"
+  description = "予欲无言"
+  github = "originx-23"
+  weibo = "example"
+  twitter = "example"
+  misskey = "user profile url"
+  mastodon = "user profile url"
+  email = "xe333@sina.com"
+  utterances = "originx-23/originx-23.github.io"
+  avatar = "https://avatars2.githubusercontent.com/u/42173584?s=460&u=ee531db1fe190db6c48a434bb8bf1f506a6c293f&v=4"
+  url = "https://example.com"
+  post_asset_folder = true

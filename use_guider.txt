@@ -1,0 +1,2 @@
+²¿Êð
+hugo --theme=hugo-theme-blueberry-detox --baseUrl="https://originx-23.github.io/"
